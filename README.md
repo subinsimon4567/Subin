@@ -20,7 +20,7 @@
 🎓 MTech **Artificial Intelligence** student at *Amrita Vishwa Vidyapeetham* <br>
 🤖 Interested in **Machine Learning, Deep Learning** and **Time-Series Forecasting** <br>
 🌦 Currently working on **Spatio-Temporal Monsoon Prediction using Mamba SSM** <br>
-🧠 Experience in **CNN, LSTM, Computer Vision** <br>
+🧠 Gained practical experience on **CNN, LSTM, Computer Vision** <br>
 ☁️ Familiar with **AWS (EC2, S3, Lambda)** <br>
 
 ---
@@ -91,4 +91,4 @@
 
 ---
 
-##⭐Thanks for visiting!
+## ⭐Thanks for visiting!
