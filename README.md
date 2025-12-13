@@ -88,4 +88,7 @@
 ☕ Most of my deep learning experiments are **coffee-powered** <br>
 📈 I trust **loss curves** more than assumptions. <br>
 ⚽ Football is my favorite non-coding optimization problem
-⭐ *Thankyou for visiting*
+
+---
+
+##⭐ Thanks for visiting!
