@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subin Simon</h1>
-<h3 align="center">MTech Artificial Intelligence | Machine Learning & Deep Learning Enthusiast</h3>
+<h3 align="center"> Artificial Intelligence | Machine Learning & Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subin-simon-7373b116b" target="_blank">
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 MTech in **Artificial Intelligence** student at *Amrita Vishwa Vidyapeetham* <br>
-🤖 Interested in **Machine Learning, Deep Learning, Time-Series Forecasting** <br>
-🌦 Working on **Spatio-Temporal Monsoon Prediction using Mamba SSM** <br>
+🎓 MTech **Artificial Intelligence** student at *Amrita Vishwa Vidyapeetham* <br>
+🤖 Interested in **Machine Learning, Deep Learning** and **Time-Series Forecasting** <br>
+🌦 Currently working on **Spatio-Temporal Monsoon Prediction using Mamba SSM** <br>
 🧠 Experience in **CNN, LSTM, Computer Vision** <br>
 ☁️ Familiar with **AWS (EC2, S3, Lambda)** <br>
 
