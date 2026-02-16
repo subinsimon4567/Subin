@@ -53,11 +53,6 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Spatio-Temporal Monsoon Prediction**
-- Mamba State-Space Model + LSTM baseline
-- ERA5 Land climate data
-- Time-series forecasting (30-day horizon)
-
 🔹 **Emotion Detection for Depressed Teenagers**
 - CNN-based facial emotion recognition
 - FER-2013 dataset
