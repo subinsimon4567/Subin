@@ -70,5 +70,7 @@
 ⚽ Football is my favorite non-coding optimization problem
 
 ---
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subinsimon4567&show_icons=true&theme=radical)
 ## ⭐Thanks for visiting!
