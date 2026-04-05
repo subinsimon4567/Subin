@@ -72,5 +72,5 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subinsimon4567&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subinsimon4567&show_icons=true&theme=radical&cache_seconds=1800)
 ## ⭐Thanks for visiting!
