@@ -63,6 +63,13 @@
 - End-to-end deployment
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinsimon4567&theme=tokyonight" />
+</p>
+
+---
 
 ## 😄 Fun Facts About Me
 ☕ Most of my deep learning experiments are **coffee-powered** <br>
