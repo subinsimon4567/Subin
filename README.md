@@ -21,14 +21,15 @@
 🎓 M.Tech Artificial Intelligence Student at **Amrita Vishwa Vidyapeetham** <br>
 📚 Published Researcher at **ICTIS 2026** <br>
 🌧 Working on **Mamba-SSM architectures for rainfall severity prediction** <br>
+☁️ Exploring AWS Cloud & AI Deployment <br>
+💡 Passionate about building real-world AI systems <br>
 🤖 Interested in:
   - Deep Learning
   - Computer Vision
   - Time-Series Forecasting
   - Generative AI
   - LLM Applications <br>
-☁️ Exploring AWS Cloud & AI Deployment <br>
-💡 Passionate about building real-world AI systems <br>
+
 ---
 ## 🔬 Current Focus
 
