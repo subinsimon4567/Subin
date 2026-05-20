@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Subin Simon</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8871e5,100:b678c4&height=250&section=header&text=Subin%20Simon&fontSize=45&fontColor=ffffff&animation=fadeIn)
+
 <h3 align="center"> AI/ML Engineer | Deep Learning Enthusiast</h3>
 
 <p align="center">
