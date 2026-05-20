@@ -17,17 +17,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 M.Tech Artificial Intelligence Student at **Amrita Vishwa Vidyapeetham**
-📚 Published Researcher at **ICTIS 2026**
-🌧 Working on **Mamba-SSM architectures for rainfall severity prediction**
-🤖 Interested in:
+- 🎓 M.Tech Artificial Intelligence Student at **Amrita Vishwa Vidyapeetham**
+- 📚 Published Researcher at **ICTIS 2026**
+- 🌧 Working on **Mamba-SSM architectures for rainfall severity prediction**
+- 🤖 Interested in:
   - Deep Learning
   - Computer Vision
   - Time-Series Forecasting
   - Generative AI
   - LLM Applications
-☁️ Exploring AWS Cloud & AI Deployment
-💡 Passionate about building real-world AI systems
+- ☁️ Exploring AWS Cloud & AI Deployment
+- 💡 Passionate about building real-world AI systems
 ---
 ## 🔬 Current Focus
 
@@ -57,8 +57,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
----
-## ☁️ Cloud & Tools
+### ☁️ Cloud & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
@@ -68,36 +67,36 @@
 
 ## 🚀 Featured Projects
 
-🌧 **Autoregressive Mamba-Based Rainfall Prediction**
-🔹 Tech Stack : Python • PyTorch • Mamba-SSM • Scikit-learn
-🔹 Highlights
+### 🌧 **Autoregressive Mamba-Based Rainfall Prediction**
+- Tech Stack : Python • PyTorch • Mamba-SSM • Scikit-learn
+- Highlights
       - Developed a structured state-space deep learning model for rainfall severity prediction
       - Processed ERA5-Land climate dataset
       - Achieved **88.9% accuracy**
       - Compared performance with baseline LSTM models
 
-😊 **Emotion Detection for Depressed Teenagers**
-🔹 Tech Stack: Python • TensorFlow • CNN • FER-2013
-🔹 Highlights
+### 😊 **Emotion Detection for Depressed Teenagers**
+- Tech Stack: Python • TensorFlow • CNN • FER-2013
+- Highlights
       - CNN-based facial emotion recognition
       - FER-2013 dataset
       - Mental health monitoring applications
 
-🎓 **Student Performance Prediction**
-🔹 Tech Stack: Python • Flask • Scikit-learn
-🔹 Highlights
+### 🎓 **Student Performance Prediction**
+- Tech Stack: Python • Flask • Scikit-learn
+- Highlights
       - Built ML model for student performance prediction
       - Performed EDA and model evaluation
       - Deployed as Flask web application
 
-🖼 NFT Marketplace on Ethereum
-🔹 Tech Stack: Ethereum • Smart Contracts
-🔹 Highlights
+### 🖼 NFT Marketplace on Ethereum
+- Tech Stack: Ethereum • Smart Contracts
+- Highlights
       - Developed decentralized NFT marketplace
       - Implemented blockchain-based transactions
       - Enabled secure ownership transfer
 ---
-##📄 Research Publication
+## 📄 Research Publication
 📘 ICTIS 2026 Publication
 
 **Autoregressive Mamba Based Structured State Space Model for Regional Monsoon Rainfall Severity Prediction in Coimbatore**
@@ -108,7 +107,7 @@
 - Improved long-range temporal dependency learning
 
 ---
-##🏆 Certifications
+## 🏆 Certifications
 - Introduction to Large Language Models – NPTEL
 - Responsible & Safe AI Systems – NPTEL
 - Applied Social Network Analysis in Python
