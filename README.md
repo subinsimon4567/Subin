@@ -136,7 +136,6 @@ while(not_successful):
     build()
     improve()
     deploy()
-
----
+```
 
 ## ⭐Thanks for visiting!
