@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subin Simon</h1>
-<h3 align="center"> Artificial Intelligence | Machine Learning & Deep Learning Enthusiast</h3>
+<h3 align="center"> AI/ML Engineer | Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subin-simon-7373b116b" target="_blank">
@@ -17,14 +17,26 @@
 
 ## 👨‍💻 About Me
 
-🎓 MTech **Artificial Intelligence** student at *Amrita Vishwa Vidyapeetham* <br>
-🤖 Interested in **Machine Learning, Deep Learning** and **Time-Series Forecasting** <br>
-🌦 Currently working on **Spatio-Temporal Monsoon Prediction using Mamba SSM** <br>
-🧠 Gained practical experience on **CNN, LSTM, Computer Vision** <br>
-☁️ Familiar with **AWS (EC2, S3, Lambda)** <br>
+🎓 M.Tech Artificial Intelligence Student at **Amrita Vishwa Vidyapeetham**
+📚 Published Researcher at **ICTIS 2026**
+🌧 Working on **Mamba-SSM architectures for rainfall severity prediction**
+🤖 Interested in:
+  - Deep Learning
+  - Computer Vision
+  - Time-Series Forecasting
+  - Generative AI
+  - LLM Applications
+☁️ Exploring AWS Cloud & AI Deployment
+💡 Passionate about building real-world AI systems
+---
+## 🔬 Current Focus
+
+- Building production-ready AI/ML applications
+- Learning FastAPI, Docker, and MLOps
+- Exploring RAG pipelines and LLM applications
+- Improving PyTorch and system design skills
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -45,36 +57,86 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+---
+## ☁️ Cloud & Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Emotion Detection for Depressed Teenagers**
-- CNN-based facial emotion recognition
-- FER-2013 dataset
-- Mental health monitoring applications
+🌧 **Autoregressive Mamba-Based Rainfall Prediction**
+🔹 Tech Stack : Python • PyTorch • Mamba-SSM • Scikit-learn
+🔹 Highlights
+      - Developed a structured state-space deep learning model for rainfall severity prediction
+      - Processed ERA5-Land climate dataset
+      - Achieved **88.9% accuracy**
+      - Compared performance with baseline LSTM models
 
-🔹 **Student Performance Prediction**
-- Machine Learning + Flask
-- End-to-end deployment
+😊 **Emotion Detection for Depressed Teenagers**
+🔹 Tech Stack: Python • TensorFlow • CNN • FER-2013
+🔹 Highlights
+      - CNN-based facial emotion recognition
+      - FER-2013 dataset
+      - Mental health monitoring applications
+
+🎓 **Student Performance Prediction**
+🔹 Tech Stack: Python • Flask • Scikit-learn
+🔹 Highlights
+      - Built ML model for student performance prediction
+      - Performed EDA and model evaluation
+      - Deployed as Flask web application
+
+🖼 NFT Marketplace on Ethereum
+🔹 Tech Stack: Ethereum • Smart Contracts
+🔹 Highlights
+      - Developed decentralized NFT marketplace
+      - Implemented blockchain-based transactions
+      - Enabled secure ownership transfer
+---
+##📄 Research Publication
+📘 ICTIS 2026 Publication
+
+**Autoregressive Mamba Based Structured State Space Model for Regional Monsoon Rainfall Severity Prediction in Coimbatore**
+
+### Highlights
+- Proposed Mamba-based forecasting architecture
+- Achieved 88.89% accuracy
+- Improved long-range temporal dependency learning
 
 ---
+##🏆 Certifications
+- Introduction to Large Language Models – NPTEL
+- Responsible & Safe AI Systems – NPTEL
+- Applied Social Network Analysis in Python
+- Introduction to Cybersecurity
+- Cambridge English ESOL International
+----
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subinsimon4567&show_icons=true&theme=tokyonight" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinsimon4567&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinsimon4567&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinsimon4567&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 😄 Fun Facts About Me
-☕ Most of my deep learning experiments are **coffee-powered** <br>
-📈 I trust **loss curves** more than assumptions. <br>
-⚽ Football is my favorite non-coding optimization problem
+```python
+while(not_successful):
+    learn()
+    build()
+    improve()
+    deploy()
 
 ---
 
